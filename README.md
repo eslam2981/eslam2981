@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ I’m currently building modern web applications with React & TypeScript
+🖥️ I’m currently building modern web applications with React & TypeScript \n
 🤝 I’m looking to collaborate on Front-End and Open Source projects
 🚀 I’m interested in building scalable, responsive and user-friendly applications
 🌱 I’m currently learning Advanced React, TypeScript & modern Front-End architecture

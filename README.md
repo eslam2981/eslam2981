@@ -1,6 +1,10 @@
 # 💫 About Me:
-Front-End Developer focused on building modern,<br>responsive, and user-friendly web applications.<br><br>Currently working with React, TypeScript,<br>JavaScript, HTML, and CSS, with a strong interest<br>in UI/UX and clean, maintainable code.<br><br>Interested in collaborating on meaningful Front-End<br>and Open Source projects while continuously<br>improving my skills in modern web development.<br><br>Feel free to explore my repositories<br>and projects below.
-
+🖥️ I’m currently building modern web applications with React & TypeScript
+🤝 I’m looking to collaborate on Front-End and Open Source projects
+🚀 I’m interested in building scalable, responsive and user-friendly applications
+🌱 I’m currently learning Advanced React, TypeScript & modern Front-End architecture
+💬 Ask me about React, JavaScript, UI/UX and Web Development
+⚡ Fun fact: I love turning simple ideas into polished web experiences
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eslam.gamil.752) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslam-gamil) 
